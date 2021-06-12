@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "My Node.JS VK bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishikinov",
+  "license": "ISC",
+  "dependencies": {
+    "easyvk": "^2.7.35",
+    "request": "^2.88.2"
+  }
+}
